@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7090caeb-79eb-4b3f-bb0e-17cb5f45b69a/resourceGroups/apisola/providers/Microsoft.Web/sites/apisolacrud",
+    "appService.deploySubpath": "."
+}

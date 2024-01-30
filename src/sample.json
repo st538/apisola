@@ -1,0 +1,20 @@
+
+[
+    {     
+    "id": 1, 
+    "nombre_pelicula": "Transformes", 
+    "precio": 1.5 , 
+    "descripcion":"Pelicula de ciencia ficion en base a seres ficticios",
+    "formato" : "Blueray"
+   
+    },
+    {
+    "id": 2, 
+    "nombre_pelicula": "Piratas del caribe", 
+    "precio": 1.4 , 
+    "descripcion":"Una fantastica pelicula de piratas",
+    "formato" : "DVD"
+       
+    }
+]
+ 
